@@ -1,5 +1,4 @@
 import streamlit as st
-import langchain
 from langchain.llms import OpenAI
 
 st.title('🦜🔗 Legal Document Summarizer')
