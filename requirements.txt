@@ -3,7 +3,6 @@ langchain
 git+https://github.com/PyTorchLightning/pytorch-lightning
 git+https://github.com/huggingface/transformers
 sentencepiece
-git+https://github.com/stas00/transformers
 pegasus
 spacy
 sumy
