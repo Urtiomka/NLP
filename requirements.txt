@@ -1,7 +1,5 @@
 streamlit
-openai
 langchain
-langchain-community
 git+https://github.com/PyTorchLightning/pytorch-lightning
 git+https://github.com/huggingface/transformers
 sentencepiece
