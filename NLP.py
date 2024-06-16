@@ -1,3 +1,4 @@
+import nltk
 import streamlit as st 
 
 from transformers import pipeline
@@ -11,6 +12,8 @@ from sumy.summarizers.lex_rank import LexRankSummarizer
 import spacy
 from spacy import displacy
 nlp = spacy.blank("en")
+
+nltk.download('punkt')
 
 # Web Scraping Pkg
 from bs4 import BeautifulSoup
