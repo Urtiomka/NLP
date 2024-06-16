@@ -21,4 +21,4 @@ streamlit run NLP.py
 ```
 
 ## WARNING
-The Pegasus choice probably won't work on Streamlit Cloud because of not enough resources. In order to try Pegasus you have clone repo and try it on your own machine.
+The Pegasus choice probably won't work on Streamlit Cloud because there is not enough resources to run it. In order to try Pegasus you have clone repo and try it on your own machine.
