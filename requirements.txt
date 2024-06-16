@@ -6,4 +6,5 @@ sentencepiece
 pegasus
 spacy
 sumy
+nltk
 bs4
