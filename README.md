@@ -15,6 +15,6 @@ This application has two types of summarization to choose from:
 
 2. Cloning repository:
 
-Clone the repository and run
+Clone the repository and run in `cmd` following command:
 ```bash
 streamlit run NLP.py
