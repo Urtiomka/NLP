@@ -18,3 +18,7 @@ This application has two types of summarization to choose from:
 Clone the repository and run in `cmd` following command:
 ```bash
 streamlit run NLP.py
+```
+
+## WARNING
+The Pegasus choice probably won't work on Streamlit Cloud because of not enough resources. In order to try Pegasus you have clone repo and try it on your own machine.
