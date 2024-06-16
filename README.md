@@ -11,7 +11,7 @@ This application has two types of summarization to choose from:
 
 1. Visiting Streamlit app:
 
-[Link to Streamlit app](https://eketweaw7f6ebpmkaobcuc.streamlit.app/)
+[Link to Streamlit app](https://nlpsummarizer.streamlit.app/)
 
 2. Cloning repository:
 
